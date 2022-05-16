@@ -1,0 +1,28 @@
+.heading-1{
+    font-size: 49px;
+    font-weight: 900;
+    color: #383b41; 
+}
+
+.form-bg{
+    padding: 20px;
+    background-color: rgb(235 236 240);
+    border-radius: 5px;
+}
+
+.mrt-id{
+    font-size: 18px
+}
+
+.p1{
+    font-size: 15px;
+    font-weight: 600;
+}
+.showerrorMsg{
+    margin-top: 8px;
+    padding: 5px;
+}
+
+.modal-h5{
+    margin-top: 14px;
+}

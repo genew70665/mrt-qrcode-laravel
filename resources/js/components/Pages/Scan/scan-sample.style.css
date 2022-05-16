@@ -1,0 +1,72 @@
+:focus {
+    outline: none;
+}
+
+form input:focus {
+    outline: 0;
+}
+
+.section {
+    width: 1070px;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto;
+}
+
+.heading-1{
+    font-size: 49px;
+    font-weight: 900;
+    color: #383b41; 
+}
+
+.heading-4{
+    font-size: 21px;
+    font-weight: 800;
+    color: #383b41; 
+}
+
+.qr-sec {
+    display: flex !important;
+    flex-direction: column;
+    background-color: #ebecf0;
+    justify-content: flex-start;
+    min-height: 66vh;
+    max-height: fit-content;
+    border-radius: 9px;
+    padding: 22px;
+}
+
+.info-sec{
+    display: flex !important;
+    flex-direction: column;
+    background-color: #ebecf0;
+    justify-content: flex-start;
+    min-height: 97vh;
+    max-height: fit-content;
+    border-radius: 9px;
+    padding: 23px;
+}
+
+.form-bg{
+    padding: 20px;
+    background-color: rgb(235 236 240);
+    border-radius: 5px;
+}
+
+.image-style{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ui.form .disabled.field{
+    opacity: 1 !important;
+}
+
+.ui.disabled.input{
+    opacity: 0.70 !important;
+}
+
+.form-aling{
+    text-align: left;
+}

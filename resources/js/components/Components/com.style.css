@@ -1,0 +1,70 @@
+.footer-icon{
+    margin-right: 4px !important;
+}
+
+.nav-bg{
+    position: sticky;
+    top: 0px;
+    z-index: 4;
+    background-color: #F7D309;
+}
+
+.nav-dropdown{
+    padding: 8px 7px;
+    font-size: 14px;
+}
+
+.nav-icon{
+    margin-right: 8px !important;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.dataSubmit{
+    background-color: #f7d30b;
+    border: 1px solid #f7d30b;
+}
+.dataSubmit:hover{
+    background-color: #ddbd0a;
+    border: 1px solid #ddbd0a;
+}
+
+.navbar-head{
+    font-size: 13.5px;
+    font-weight: 700;
+}
+
+tbody {
+    display: block;
+    max-height: 400px;
+    overflow: overlay;
+  }
+
+  thead,
+  tbody tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+  }
+
+.nav-dropdown:hover{
+    background-color: #f7d449;
+}
+.dropdown-menu{
+    background-color: #f7d449;
+}
+.dropdown-item{
+    color: #4183c4;
+    font-weight: 600;
+}
+.dropdown-item:hover{
+    color: #247acf;
+    font-weight: 600;
+}
+.successMessage{
+    background-color: #f7d449;
+    padding: 10px;
+    border-radius: 7px;
+}

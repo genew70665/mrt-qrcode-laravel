@@ -1,0 +1,70 @@
+.SelectLogin {
+    width: 885px;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto;
+}
+
+.heading-1{
+    font-size: 49px;
+    font-weight: 900;
+    color: #383b41; 
+}
+
+.heading-3{
+    font-size: 20px;
+    font-weight: 400;
+    color: #383b41; 
+}
+
+.heading-4{
+    font-size: 21px;
+    font-weight: 800;
+    color: #383b41; 
+}
+
+.inner-col {
+    display: flex !important;
+    flex-direction: column;
+    background-color: #ebecf0;
+    justify-content: center;
+    height: 350px;
+    border-radius: 9px;
+
+}
+
+.icon-link{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    color: #f7d30b;
+}
+
+.icon-center{
+    margin-left: auto !important;
+    margin-right: auto !important;
+
+}
+
+.form-bg{
+    padding: 20px;
+    background-color: rgb(235 236 240);
+    border-radius: 5px;
+}
+
+.showerror{
+    margin-top: -19px;
+    padding: 5px;
+}
+
+.password-retrieve{
+    margin-bottom: 10px;
+}
+
+.pwdImg{
+    cursor: pointer;
+    position: relative;
+    width: 25px;
+    right: 6px;
+    top: -53px;
+    float: right;
+}

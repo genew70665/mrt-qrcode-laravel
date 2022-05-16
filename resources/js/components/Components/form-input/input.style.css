@@ -1,0 +1,38 @@
+.custom-button{
+    min-width: 100%;
+    width: auto;
+    transition: 0.2s;
+    height: 45px;
+    justify-content: center;
+    background-color: #F7D309 !important;
+}
+
+.custom-button:hover{
+    background-color:#ddbd0a !important;
+}
+
+.inverted-button{
+    min-width: 100%;
+    width: auto;
+    transition: 0.2s;
+    height: 45px;
+    justify-content: center;
+    border: 2px solid #F7D309 !important;
+    background-color: #e8e8e9 !important;
+}   
+
+.inverted-button:hover{
+    background-color:#b4b7bd !important;
+}
+
+.custon-input{
+    width: 100%;
+    height: 40px;
+    border-radius: 7px;
+}
+
+.custom-textarea{
+    min-width: 100%;
+    width: auto;
+    border-radius: 7px;
+}
